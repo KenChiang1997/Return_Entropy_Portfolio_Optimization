@@ -19,7 +19,8 @@ Return entropy portfolio optimization , use entropy property to modify MVPO
 -> giving different parameters to compare the result 
 
 #----------data----------------------
-1. return_all.xlsx
+
+return_all.xlsx
 
 #---------some_out_put_pic------------
 
