@@ -5,7 +5,7 @@ NTHU QF Mathematical Finance 2020 Fall semester
 Return entropy portfolio optimization , use entropy property to modify MVPO 
 
 
-#----------code-----------
+# ----------code-----------
 1. Return_Entropy.py  
 
 –> package of the model 
@@ -20,11 +20,11 @@ Return entropy portfolio optimization , use entropy property to modify MVPO
 
 -> giving different parameters to compare the result 
 
-#----------data----------------------
+# ----------data----------------------
 
 return_all.xlsx
 
-#---------some_out_put_pic------------
+# ---------some_out_put_pic------------
 
 output from code 3
 
