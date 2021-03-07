@@ -27,3 +27,9 @@ return_all.xlsx
 #---------some_out_put_pic------------
 
 output from code 3
+1.MVPO
+![圖片 1](https://user-images.githubusercontent.com/80143995/110239136-77f4b780-7f80-11eb-9548-27781c392d0f.png)
+![圖片 2](https://user-images.githubusercontent.com/80143995/110239138-7aefa800-7f80-11eb-8ae7-411bc5c73680.png)
+2.use entropy modified the optimization equation
+![圖片 3](https://user-images.githubusercontent.com/80143995/110239142-7d520200-7f80-11eb-8c2c-7fc2370e00ee.png)
+![圖片 4](https://user-images.githubusercontent.com/80143995/110239144-7f1bc580-7f80-11eb-8968-0f6d6646c6ac.png)
