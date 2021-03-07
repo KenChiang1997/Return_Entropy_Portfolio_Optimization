@@ -42,11 +42,5 @@ class Return_Entropy_Portfolio_Optimization():
         return self.final_weight
 
 
-path=r'/Users/chen-lichiang/Desktop/2020HW/數金作業/return_all.xlsx'
-df=pd.read_excel(path,index_col='Date')
-print(df)
-model = Return_Entropy_Portfolio_Optimization(df,u=0.01,var=0.04288542001711603)
-w = model.optimization()
-w = model.print_result()
 
 
