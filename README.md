@@ -8,7 +8,9 @@ Return entropy portfolio optimization , use entropy property to modify MVPO
 #----------code-----------
 1. Return_Entropy.py  
 
-–> package of the model u need to  input your portfolio price data , expected return , and tolerate variance
+–> package of the model 
+
+->u need to input your portfolio price data , expected return , and tolerate variance
 
 2. MVPO.py
 
