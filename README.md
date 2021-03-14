@@ -1,6 +1,6 @@
 # Return_Entropy_Portfolio_Optimization
 
-NTHU QF Mathematical Finance exercise  [ 2020 Fall semester ] 
+NTHU QF Mathematical Finance Exercise  [ 2020 Fall semester ] 
 
 Return entropy portfolio optimization , use entropy property to modify MVPO 
 
