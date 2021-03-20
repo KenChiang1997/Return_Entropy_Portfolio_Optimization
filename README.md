@@ -24,16 +24,27 @@ Return entropy portfolio optimization , use entropy property to modify MVPO
 
 return_all.xlsx
 
-# ---------some_output_pics------------
+# --------- infor ------------
 
-output from code 3
+![image](https://user-images.githubusercontent.com/80143995/111861006-f6d8ef80-8985-11eb-8862-263850d3accb.png)
 
-1. MVPO
+![image](https://user-images.githubusercontent.com/80143995/111861008-f93b4980-8985-11eb-8099-1fe716059b3f.png)
 
-![圖片 1](https://user-images.githubusercontent.com/80143995/110239136-77f4b780-7f80-11eb-9548-27781c392d0f.png)
+![image](https://user-images.githubusercontent.com/80143995/111861011-fb050d00-8985-11eb-9621-d1ec64d301cb.png)
 
-2. use entropy modified the optimization equation
+![image](https://user-images.githubusercontent.com/80143995/111861012-fd676700-8985-11eb-86b5-64b91bcf1468.png)
 
-![圖片 3](https://user-images.githubusercontent.com/80143995/110239142-7d520200-7f80-11eb-8c2c-7fc2370e00ee.png)
+![image](https://user-images.githubusercontent.com/80143995/111861014-ffc9c100-8985-11eb-8ff2-1413f2f53377.png)
 
-![圖片 4](https://user-images.githubusercontent.com/80143995/110239144-7f1bc580-7f80-11eb-8968-0f6d6646c6ac.png)
+![image](https://user-images.githubusercontent.com/80143995/111861015-022c1b00-8986-11eb-9c09-0b1a7863cc6f.png)
+
+![image](https://user-images.githubusercontent.com/80143995/111861018-048e7500-8986-11eb-9b1e-8267a8178f00.png)
+
+![image](https://user-images.githubusercontent.com/80143995/111861020-06583880-8986-11eb-89dc-bfe6f0506b07.png)
+
+![image](https://user-images.githubusercontent.com/80143995/111861023-08ba9280-8986-11eb-8e92-06c853b22931.png)
+
+![image](https://user-images.githubusercontent.com/80143995/111861025-0a845600-8986-11eb-9112-46fdb35cfffd.png)
+
+
+
