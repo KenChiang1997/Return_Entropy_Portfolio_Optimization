@@ -1,3 +1,6 @@
+
+author : " 江晨立 , ken chiang"
+
 # Return_Entropy_Portfolio_Optimization
 
 NTHU QF Mathematical Finance Exercise  [ 2020 Fall semester ] 
