@@ -31,6 +31,6 @@ return_all.xlsx
 
 # --------- infor ------------
 
-[109071601_江晨立.pdf](https://github.com/KenChiang1997/Return_Entropy_Portfolio_Optimization/files/6652298/109071601_.pdf)
+for detail information , please looke at [ 109071601_江晨立.pdf ] file
 
 
