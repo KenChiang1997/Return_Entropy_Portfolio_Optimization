@@ -1,36 +1,4 @@
 
-author : " 江晨立 , ken chiang"
-
-# Return_Entropy_Portfolio_Optimization
-
-NTHU QF Mathematical Finance Exercise  [ 2020 Fall semester ] 
-
-Return entropy portfolio optimization , use entropy property to modify MVPO 
-
-Reference : https://ir.nctu.edu.tw/bitstream/11536/24829/1/000338734700008.pdf
-
-
-# ----------code-----------
-1. Return_Entropy.py  
-
-  –> package of the model 
-
-  -> u need to input your portfolio price data , expected return , and tolerate variance
-
-2. MVPO.py
-
-  -> mean variance portfolio optimization with constrain of short sell 
-
-3. Max_entropy.py , REPO.py , Max_entropy_variance_constraint.py
-
-  -> giving different parameters to compare the result 
-
-# ----------data----------------------
-
-return_all.xlsx
-
-# --------- infor ------------
-
 <img width="750" alt="截圖 2021-06-15 上午10 26 16" src="https://user-images.githubusercontent.com/80143995/121983654-3fa51680-cdc4-11eb-9de8-516c9f109b50.png">
 
 <img width="750" alt="截圖 2021-06-15 上午10 26 20" src="https://user-images.githubusercontent.com/80143995/121983668-43389d80-cdc4-11eb-8be5-f4b0b2cd3058.png">
