@@ -21,7 +21,3 @@
 
 <img width="750" alt="截圖 2021-06-15 上午10 30 48" src="https://user-images.githubusercontent.com/80143995/121983992-c954e400-cdc4-11eb-9de1-7fb75872c216.png">
 
-<img width="750" alt="截圖 2021-06-15 上午10 30 50" src="https://user-images.githubusercontent.com/80143995/121983995-cb1ea780-cdc4-11eb-9d83-438d5420b3da.png">
-
-
-
